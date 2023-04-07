@@ -4,4 +4,5 @@ Hi👋 I'm Ashok G R,a VLSI enthusiast. I'm using Xilinx Vivado 2022.1 for simul
 Here is the list of Day wise RTL Codes:-
 
 Day 1: Basic Gates by using Gate Level Modelling
+
 Day 2: Basic gates by using Behavioral & Data Flow Modelling
