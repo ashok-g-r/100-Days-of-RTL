@@ -8,3 +8,5 @@ Day 1: Basic Gates by using Gate Level Modelling
 Day 2: Basic gates by using Behavioral & Data Flow Modelling
 
 Day 3: Implementaion of Basic gates using NAND Gate
+
+Day 4: Implementaion of Basic gates using NOR Gate
