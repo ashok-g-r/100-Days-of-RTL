@@ -10,3 +10,5 @@ Day 2: Basic gates by using Behavioral & Data Flow Modelling
 Day 3: Implementaion of Basic gates using NAND Gate
 
 Day 4: Implementaion of Basic gates using NOR Gate
+
+Day 5: 4bit Binary to Gray conversion
