@@ -14,3 +14,5 @@ Day 4: Implementaion of Basic gates using NOR Gate
 Day 5: 4bit Binary to Gray conversion
 
 Day 6: 4bit Gray to Binary conversion
+
+Day 7: BCD to Excess3 Conversion
