@@ -20,3 +20,5 @@ Day 7: BCD to Excess3 Conversion
 Day 8: BCD to Binary Conversion
 
 Day 9: Binary to BCD Conversion
+
+Day 10: Half Adder (by using all Modelling)
