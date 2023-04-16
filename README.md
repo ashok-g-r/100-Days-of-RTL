@@ -22,3 +22,5 @@ Day 8: BCD to Binary Conversion
 Day 9: Binary to BCD Conversion
 
 Day 10: Half Adder (by using all Modelling)
+
+Day 11: Half Subtractor (by using all Modelling)
