@@ -25,4 +25,6 @@ Day 10: Half Adder (by using all Modelling)
 
 Day 11: Half Subtractor (by using all Modelling)
 
-Day 12: Full Adder
+Day 12: Full Adder (by using all Modelling)
+
+Day 13: Full Subtractor (by using all Modelling)
