@@ -32,3 +32,5 @@ Day 13: Full Subtractor (by using all Modelling)
 Day 14: Full Adder using Half Adder
 
 Day 15: Full Subtractor using Half Subtractor
+
+Day 16: Parallel Adder
