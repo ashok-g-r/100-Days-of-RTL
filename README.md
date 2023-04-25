@@ -40,3 +40,5 @@ Day 17: Ripple carry Adder / subtractor
 Day 18: Look_ahead_carry_adder
 
 Day 19: Mux n*1
+
+Day-20: Demux 1*n
