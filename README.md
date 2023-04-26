@@ -42,3 +42,5 @@ Day 18: Look_ahead_carry_adder
 Day 19: Mux n*1
 
 Day-20: Demux 1*n
+
+Day-21: Encoder8to3_tb
