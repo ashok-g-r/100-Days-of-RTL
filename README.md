@@ -43,4 +43,6 @@ Day 19: Mux n*1
 
 Day-20: Demux 1*n
 
-Day-21: Encoder8to3_tb
+Day-21: Encoder8to3
+
+Day-22: Decoder3to8
