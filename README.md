@@ -48,3 +48,5 @@ Day-21: Encoder8to3
 Day-22: Decoder3to8
 
 Day-23:priorityencoder_8to3
+
+Day-24: 4-bit Magnitude Comparator.
