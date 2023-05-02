@@ -43,8 +43,6 @@ Day 19: Mux n*1
 
 Day-20: Demux 1*n
 
-Day-25 logic_gates_using_mux2to1
-
 Day-21: Encoder8to3
 
 Day-22: Decoder3to8
@@ -52,3 +50,7 @@ Day-22: Decoder3to8
 Day-23:priorityencoder_8to3
 
 Day-24: 4-bit Magnitude Comparator
+
+Day-25 logic_gates_using_mux2to1
+
+Day-26 BCD to 7-segment display converter
