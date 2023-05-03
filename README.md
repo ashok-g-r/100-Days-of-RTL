@@ -54,3 +54,5 @@ Day-24: 4-bit Magnitude Comparator
 Day-25 logic_gates_using_mux2to1
 
 Day-26 BCD to 7-segment display converter
+
+Day-27 Carry Skip Adder
