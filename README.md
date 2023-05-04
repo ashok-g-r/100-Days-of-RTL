@@ -58,3 +58,11 @@ Day-26 BCD to 7-segment display converter
 Day-27 Carry Skip Adder
 
 Day-28 SR Latch
+
+Day-29 SR FLIP FLOP
+
+Day-30 JK FLIP FLOP
+
+Day-31 D FLIP FLOP
+
+Day-32 T FLIP FLOP
