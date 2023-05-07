@@ -67,4 +67,8 @@ Day-31 D FLIP FLOP
 
 Day-32 T FLIP FLOP
 
-Day-33 Asynchronous 4bit counter
+Day-33 Asynchronous 4bit Up counter
+
+Day-34 Asynchronous 4bit Down counter
+
+Day-35 Johnson counter
