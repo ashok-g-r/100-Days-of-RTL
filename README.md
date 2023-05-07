@@ -66,3 +66,5 @@ Day-30 JK FLIP FLOP
 Day-31 D FLIP FLOP
 
 Day-32 T FLIP FLOP
+
+Day-33 Asynchronous 4bit counter
