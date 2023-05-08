@@ -72,3 +72,5 @@ Day-33 Asynchronous 4bit Up counter
 Day-34 Asynchronous 4bit Down counter
 
 Day-35 Johnson counter
+
+Day-36 Ring counter
