@@ -74,3 +74,5 @@ Day-34 Asynchronous 4bit Down counter
 Day-35 Johnson counter
 
 Day-36 Ring counter
+
+Day-37 BCD Counter
