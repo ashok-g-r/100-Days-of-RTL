@@ -76,3 +76,6 @@ Day-35 Johnson counter
 Day-36 Ring counter
 
 Day-37 BCD Counter
+
+Day-38 Serial-In Serial-Out Shift Register (SISO)
+
