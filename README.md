@@ -79,3 +79,4 @@ Day-37 BCD Counter
 
 Day-38 Serial-In Serial-Out Shift Register (SISO)
 
+Day-39 4-bit Serial-in to Parallel-out Shift Register
