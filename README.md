@@ -84,3 +84,6 @@ Day-39 4-bit Serial-in to Parallel-out Shift Register
 Day-40 Clock Divider 
 
 Day-41 Parallel in serial out Register
+
+Day-42 4-bit parallel-in-﻿parallel-out (PIPO) Shift Register
+
