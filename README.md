@@ -87,3 +87,5 @@ Day-41 Parallel in serial out Register
 
 Day-42 4-bit parallel-in-﻿parallel-out (PIPO) Shift Register
 
+Day-43 Universal Shift Register
+
