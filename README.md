@@ -92,3 +92,7 @@ Day-43 Universal Shift Register
 Day-44 Asynch﻿ronous modulo-8 updown counter
 
 Day-45 0101 sequ﻿ence detector using Moore FSM
+
+Day-46 Single Port RAM 
+
+Day-47  Synchronous FIFO (F﻿irst-In-First-Out)
