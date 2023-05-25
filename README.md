@@ -96,3 +96,5 @@ Day-45 0101 sequ﻿ence detector using Moore FSM
 Day-46 Single Port RAM 
 
 Day-47  Synchronous FIFO (F﻿irst-In-First-Out)
+
+Day-48 Asynchronous FIFO (First-In-First-Out)
