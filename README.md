@@ -98,3 +98,5 @@ Day-46 Single Port RAM
 Day-47  Synchronous FIFO (F﻿irst-In-First-Out)
 
 Day-48 Asynchronous FIFO (First-In-First-Out)
+
+Day-49 Dual port RAM
